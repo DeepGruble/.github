@@ -9,7 +9,14 @@
                             | |                                  
                             |_|             
 
-```
-# Welcome 🚀
+```                           
 
-**DeepGruble** creates cutting-edge AI solutions. Our vision is to build AI systems tailored for all businesses, empowering them with technology traditionally available only to larger enterprises. 🌍 
+# 🧠
+
+**DeepGruble** is an AI-native company — founded because of AI,  
+built with AI, and made *for* humans. 🌍
+
+*LLMs · Computer Vision · Private AI Infrastructure*
+
+No cloud. No tracking.  
+All intelligence belongs to you.
