@@ -13,8 +13,8 @@
 
 # 🧠
 
-**DeepGruble** is an AI-native company — founded because of AI,  
-built with AI, and made *for* humans. 🌍
+**DeepGruble** is an AI-native company — founded because of AI, built with AI, and made *for* humans. 🌍
+
 
 *LLMs · Computer Vision · Private AI Infrastructure*
 
