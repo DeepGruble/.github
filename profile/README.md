@@ -11,12 +11,10 @@
 
 ```                           
 
-# 🧠
-
-**DeepGruble** is an AI-native company — founded because of AI, built with AI, and made *for* humans. 🌍
+**DeepGruble** is an AI-native company — founded because of AI, built with AI, and made *for* humans.
 
 
-*LLMs · Computer Vision · Private AI Infrastructure*
+*LLM/SLMs · Machine Learning · Computer Vision · Private AI Infrastructure*
 
 No cloud. No tracking.  
 All intelligence belongs to you.
