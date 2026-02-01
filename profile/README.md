@@ -48,9 +48,12 @@ With this view, we built **Idea Driven Development (IDD)**: You describe *what* 
 * **With memory**, every idea lasts. Your framework learns. Your context persists.
 
 ## unanswerable.ai
-No more bullshit, no more middlemen, no more Big Tech owning your mind.
+Why unanswerable?
+Because it doesn't hallucinate. It's humble enough to stop where the evidence ends. An honest silence is infinitely more valuable than a complete lie.
 
 **unanswerable.ai** is the trusted framework built for IDD. It is private, local, and encrypted.
+
+No more bullshit, no more middlemen, no more Big Tech owning your mind.
 
 * **Memory:** Your knowledge persists and compounds over time.
 * **Privacy:** Local-first architecture. Your data stays yours.
