@@ -21,19 +21,17 @@
     ############   ######            ##############    ############      ##############   ############  
 
 
-**DeepGruble** is an AI-native company — founded because of AI, built with AI, and made *for* humans.
-
-
-*LLM/SLMs · Machine Learning · Computer Vision · Private AI Infrastructure*
-
-No cloud. No tracking.  
-All intelligence belongs to you.
+All intelligence belongs to you
 ```
 </div>
 
-# Vision: AI as Memory
+**DeepGruble®** *est. 2023*
 
-DeepGruble sees AI as **Memory.** Not superintelligence. Not agents. Memory is your knowledge compounding over time.
+We are an AI-native company — founded because of AI, built with AI, and *serving* humans.
+
+# MEMORY - Our Word
+
+DeepGruble sees AI as **MEMORY.** Not superintelligence. Don't believe the hype. Memory is your knowledge compounding over time.
 
 We are shifting the paradigm from a technology race to an **ideas race**. LLMs are converging; they are commodities—dictionaries of words. Execution is abundant. Ideas are scarce.
 
@@ -42,22 +40,26 @@ With this view, we built **Idea Driven Development (IDD)**: You describe *what* 
 * **Without memory**, every prompt starts from zero.
 * **With memory**, every idea lasts. Your framework learns. Your context persists.
 
-## unanswerable.ai
-Why unanswerable?
-Because it doesn't hallucinate. It's humble enough to stop where the evidence ends. An honest silence is infinitely more valuable than a complete lie.
+# unanswerable.ai
+
+## Why unanswerable? ##
+
+*"Whereof one cannot speak, thereof one must be silent."* — We took that seriously.
+
+Because some questions touch infinity. No formal system can complete them—Russell tried, Gödel proved it, Wittgenstein knew it. There will always be unanswerable questions. Our name transcends time—it is infinite by definition.
+
+An honest silence is infinitely more valuable than a complete lie.
 
 **unanswerable.ai** is the trusted framework built for IDD. It is private, local, and encrypted.
 
-No more bullshit, no more middlemen, no more Big Tech owning your mind.
+No more BS, no more middlemen. Your mind belongs to you.
 
 * **Memory:** Your knowledge persists and compounds over time.
 * **Privacy:** Local-first architecture. Your data stays yours.
 * **Any LLM:** We are not locked to one provider. LLMs are commodities.
 * **No Fat Formats:** Pure plain text. No proprietary fences around your knowledge.
 * **Encrypted Sharing:** Share your memory freely and securely.
-* **Peer Reviewed:** Trusted knowledge sources, evidence-based like science.
+* **Peer Reviewed:** Git-native. Full history. Every change is a Pull Request.
 * **Human-First:** We extend your mind, we do not replace it. The human brain is superior to any data center.
 
 Ask yourself - and now you can - with unanswerable.ai
-
----
