@@ -44,7 +44,9 @@ With this view, we built **Idea Driven Development (IDD)**: You describe *what* 
 
 ## Why unanswerable? ##
 
-*"Whereof one cannot speak, thereof one must be silent."* — We took that seriously.
+*"Whereof one cannot speak, thereof one must be silent."* — Ludwig Wittgenstein
+
+We took that seriously.
 
 Because some questions touch infinity. No formal system can complete them—Russell tried, Gödel proved it, Wittgenstein knew it. There will always be unanswerable questions. Our name transcends time—it is infinite by definition.
 
