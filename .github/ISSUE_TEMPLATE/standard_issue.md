@@ -23,4 +23,3 @@ Full rules: https://github.com/DeepGruble/dg-docs/blob/main/github.md#issues
 Before submitting, set:
 - one `type:*` label - `feature`, `bug`, `chore`, `docs`, or `epic`
 - one `priority:*` label - `now`, `next`, or `later`
-- Assignee, Project, Status, Estimate (see [github.md](https://github.com/DeepGruble/dg-docs/blob/main/github.md#metadata))
