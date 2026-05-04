@@ -1,27 +1,25 @@
 ---
 name: Standard Issue
-about: Create a task following DeepGruble conventions
+about: Create an issue following DeepGruble conventions
 title: ''
 labels: ''
 assignees: ''
 ---
 
-**Source:** (e.g., Stakeholder Name - Date)
-**Priority:** TBD (Leave as TBD initially. PM will assign: P0, P1, P2, or NP)
+<!--
+Keep this short. Describe the intent and what "done" looks like.
+No procedure, no step-by-step plan - the codebase will have changed
+by the time someone picks this up.
+Reference files with `backticks`.
+Full rules: https://github.com/DeepGruble/dg-docs/blob/main/github.md#issues
+-->
 
-### Description
-(Detailed description of the task. Required.)
+**Current:** 
 
-### Requirements
-- [ ] Requirement 1
-- [ ] Requirement 2
-
-### Original Note
-(Optional: Original context or raw note if applicable)
+**Expected:** 
 
 ---
-**DeepGruble Process Checklist**
-- [ ] **Assignee** set
-- [ ] **Project** set
-- [ ] **Status** set (default: Backlog or Ready)
-- [ ] **Estimate** set (hours, max 7.5h. Break down if larger.)
+
+Before submitting, set:
+- one `type:*` label - `feature`, `bug`, `chore`, `docs`, or `epic`
+- one `priority:*` label - `now`, `next`, or `later`
